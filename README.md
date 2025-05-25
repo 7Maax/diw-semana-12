@@ -6,7 +6,7 @@ Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e 
 
 ## Informações do trabalho
 
-- Nome: Gabriel Max 
+- Nome: Gabriel Max Ferreira Rodrigues
 - Matricula: 895054
 - Proposta de projeto escolhida: Pagina de filmes 
 - Breve descrição sobre seu projeto: Site de catálogo de filmes e séries, onde vocês vai poder ver informações sobre o filmes como trailer, descrição,ano de lançamento e dentre outras informações.
